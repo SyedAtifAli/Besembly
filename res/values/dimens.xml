@@ -1,0 +1,50 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    
+     <dimen name="codeAreaHeight1">192dp</dimen>
+      <dimen name="codeAreaHeight2">256dp</dimen>
+       <dimen name="codeAreaHeight3">384dp</dimen>
+        <dimen name="codeAreaHeight4">512dp</dimen>
+     
+    <dimen name="height1">64dp</dimen>
+    <dimen name="height2">78dp</dimen>
+    <dimen name="height3">104dp</dimen>
+    <dimen name="height4">184dp</dimen>
+    <dimen name="width1">102dp</dimen>
+    <dimen name="width2">116dp</dimen>
+    <dimen name="width3">156dp</dimen>
+    <dimen name="width4">264dp</dimen>
+    <dimen name="tabWidth1">180dp</dimen>
+    <dimen name="tabWidth2">360dp</dimen>
+    <dimen name="tabWidth3">360dp</dimen>
+    <dimen name="tabWidth4">480dp</dimen>
+    <dimen name="tabHeight1">70dp</dimen>
+    <dimen name="tabHeight2">90dp</dimen>
+    <dimen name="tabHeight3">120dp</dimen>
+    <dimen name="tabHeight4">160dp</dimen>
+    <dimen name="tabWidth1_logo">180dp</dimen>
+    <dimen name="tabWidth2_logo">280dp</dimen>
+    <dimen name="tabWidth3_logo">320dp</dimen>
+    <dimen name="tabWidth4_logo">420dp</dimen>
+    <dimen name="tabHeight1_logo">100dp</dimen>
+    <dimen name="tabHeight2_logo">120dp</dimen>
+    <dimen name="tabHeight3_logo">140dp</dimen>
+    <dimen name="tabHeight4_logo">180dp</dimen>
+    
+    <dimen name="runMenuWidth1">60dp</dimen>
+    <dimen name="runMenuWidth2">80dp</dimen>
+    <dimen name="runMenuWidth3">100dp</dimen>
+    <dimen name="runMenuWidth4">120dp</dimen>
+    <dimen name="runMenuHeight1">60dp</dimen>
+    <dimen name="runMenuHeight2">80dp</dimen>
+    <dimen name="runMenuHeight3">100dp</dimen>
+    <dimen name="runMenuHeight4">120dp</dimen>
+    
+    <dimen name="consoleAreaHeight1">64dp</dimen>
+      <dimen name="consoleAreaHeight2">92dp</dimen>
+       <dimen name="consoleAreaHeight3">128dp</dimen>
+        <dimen name="consoleAreaHeight4">192dp</dimen>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:orientation="vertical" 
+    android:visibility="visible">
+    
+    	  <!-- UST MENU TASARIMI BASLAR -->
+	    <RelativeLayout
+	        android:id="@+id/ust_menu_tablar"
+	        android:layout_width="match_parent"
+	        android:layout_height="match_parent"
+	        android:orientation="vertical" >
+	        
+	        <ImageView 
+	            android:id="@+id/logo"
+	            android:layout_width="@dimen/tabWidth3_logo"
+		        android:layout_height="@dimen/tabHeight3_logo"
+		        android:layout_centerHorizontal="true"
+		        android:gravity="center"
+		        android:contentDescription="@string/shamansoft"
+		        android:background="@drawable/ic_launcher"/>
+	        </RelativeLayout>  
+  </RelativeLayout>

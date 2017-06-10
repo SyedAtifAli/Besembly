@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Besembly Mobile</string>
+	<string name="none">None</string>
+	<string name="shamansoft">Shamansoft</string>
+	<string name="codeArea">Assembly Code Area</string>
+	<string name="run">Run</string>
+	<string name="save">Save</string>
+</resources>
