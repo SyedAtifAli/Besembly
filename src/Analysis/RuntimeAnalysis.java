@@ -107,7 +107,7 @@ public class RuntimeAnalysis
 					Global.SetRegister(Global.ip, 0);//Instruction pointer'i sifirlayalim.
 				}
 				boolean onlyOnePass = false;
-				while(true && onlyOnePass == false)
+				while(!onlyOnePass)
 				{
 					int index = Global.BitsToUnsignedInt(memory.getMem(Global.GetRegister(Global.cs) + Global.GetRegister(Global.ip), 2));
 					//Eger memory'den icerik hatali geldiyse ya da hlt ile code segment tamamlandiysa
